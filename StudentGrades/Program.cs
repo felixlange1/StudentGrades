@@ -63,6 +63,24 @@ class Program
             
         }
 
+        var HTMLBasics = new Course();
+        
+        HTMLBasics.EnrollStudent(student1.Name);
+        HTMLBasics.EnrollStudent(student2.Name);
+        HTMLBasics.EnrollStudent(student3.Name);
+        HTMLBasics.EnrollStudent(student4.Name);
+
+        Console.WriteLine("Enter a name you want to enroll to 'HTML Basics':");
+            string studentName = Console.ReadLine();
+            HTMLBasics.EnrollStudent(studentName);
+
+            
+        Console.WriteLine("These students are enrolled:");
+            foreach (var enrolledStudent in HTMLBasics.EnrolledStudents)
+            {
+                Console.WriteLine(enrolledStudent);
+            };
+
     }
 }
 
