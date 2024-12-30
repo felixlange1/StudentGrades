@@ -15,4 +15,24 @@ public class Student
     {
         Grades.AddRange(grades);
     }
+
+    public double CalculateAverageGrade()
+    {
+        // double gradeSum = 0;
+        // for (int i = 0; i < Grades.Count; i++)
+        // {
+        //     gradeSum += Grades[i];
+        // }
+        // double averageGrade = gradeSum / Grades.Count;
+        // return averageGrade;
+
+        if (Grades.Count == 0)
+        {
+            return 0;
+        }
+        else
+        {
+            return Grades.Average();
+        }
+    }
 }

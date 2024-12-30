@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/StudentGrades/StudentGrades.csproj",
+      "projectUniqueName": "/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/StudentGrades.csproj",
       "projectName": "StudentGrades",
-      "projectPath": "/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/StudentGrades/StudentGrades.csproj",
+      "projectPath": "/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/StudentGrades.csproj",
       "packagesPath": "/Users/felixlange/.nuget/packages/",
-      "outputPath": "/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/StudentGrades/obj/",
+      "outputPath": "/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/obj/",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
