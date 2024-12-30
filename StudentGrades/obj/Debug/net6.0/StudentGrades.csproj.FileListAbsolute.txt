@@ -1,0 +1,15 @@
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/bin/Debug/net6.0/StudentGrades
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/bin/Debug/net6.0/StudentGrades.deps.json
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/bin/Debug/net6.0/StudentGrades.runtimeconfig.json
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/bin/Debug/net6.0/StudentGrades.dll
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/bin/Debug/net6.0/StudentGrades.pdb
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/obj/Debug/net6.0/StudentGrades.csproj.AssemblyReference.cache
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/obj/Debug/net6.0/StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/obj/Debug/net6.0/StudentGrades.AssemblyInfoInputs.cache
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/obj/Debug/net6.0/StudentGrades.AssemblyInfo.cs
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/obj/Debug/net6.0/StudentGrades.csproj.CoreCompileInputs.cache
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/obj/Debug/net6.0/StudentGrades.dll
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/obj/Debug/net6.0/refint/StudentGrades.dll
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/obj/Debug/net6.0/StudentGrades.pdb
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/obj/Debug/net6.0/StudentGrades.genruntimeconfig.cache
+/Users/felixlange/Desktop/Code/repos/StudentGrades/StudentGrades/obj/Debug/net6.0/ref/StudentGrades.dll
